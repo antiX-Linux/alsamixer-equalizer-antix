@@ -1,5 +1,3 @@
-alsamixer-equalizer.desktop     /usr/share/applications/antix
-changelog.gz                    /usr/share/doc/alsamixer-equalizer-antix
-copyright                       /usr/share/doc/alsamixer-equalizer-antix
-asound.conf                     /etc
-alsamixer-equalizer.png         /usr/share/pixmaps
+alsamixer-equalizer.desktop 	usr/share/applications/antix
+asound.conf                     etc
+alsamixer-equalizer.png         usr/share/pixmaps

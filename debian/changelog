@@ -1,3 +1,15 @@
+alsamixer-equalizer-antix (0.1.1) unstable; urgency=low 
+ 
+  * New icon.
+  * Corrected, more detailed asound.conf
+  * To enable both playback and capture when half-duplex device (e.g. dmix, dsnoop) is used
+  * Replaced dmix device with asym device wrapper
+  * Included within asym - dmix for playback and dsnoop for capture
+  * Don't show in menu
+ 
+ -- anticapitalista <antiX@operamail.com>  Fri, 03 July 2015 11:24:00 +0200
+
+
 alsamixer-equalizer-antix (0.1.0) unstable; urgency=low 
  
   * Initial Release.
