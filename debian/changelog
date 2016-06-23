@@ -1,3 +1,10 @@
+alsamixer-equalizer-antix (0.1.2) unstable; urgency=medium
+
+  * Commented default device section to avoid using pulseaudio in firefox-esr 
+  * Removed rogue -
+
+ -- anticapitalista <antix@operamail.com>  Sun, 19 Jun 2016 16:20:57 +0300
+
 alsamixer-equalizer-antix (0.1.1) unstable; urgency=low 
  
   * New icon.
@@ -7,7 +14,7 @@ alsamixer-equalizer-antix (0.1.1) unstable; urgency=low
   * Included within asym - dmix for playback and dsnoop for capture
   * Don't show in menu
  
- -- anticapitalista <antiX@operamail.com>  Fri, 03 July 2015 11:24:00 +0200
+ -- anticapitalista <antiX@operamail.com>  Fri, 03 Jul 2015 11:24:00 +0200
 
 
 alsamixer-equalizer-antix (0.1.0) unstable; urgency=low 
