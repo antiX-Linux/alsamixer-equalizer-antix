@@ -1,6 +1,24 @@
 [Desktop Entry]
 Name=Alsamixer Equalizer
+Name[ca]=Equalitzador Alsamixer
+Name[de]=Alsamixer Equalizer
+Name[el]=Alsamixer Equalizer
+Name[es]=Equalizador de Alsamixer
+Name[fr]=Égaliseur pour Alsamixer
+Name[it]=Equalizzatore Alsamixer
+Name[nl]=Alsamixer Equalizer
+Name[pt]=Equalizador Alsamixer
+Name[sv]=Alsamixer Equalizer
 Comment=ALSA Audio Equalizer
+Comment[ca]=Equalitzador d'àudio Alsmixer
+Comment[de]=ALSA Audio Equalizer
+Comment[el]=ALSA Audio Equalizer
+Comment[es]=Equalizador de ALSA Audio
+Comment[fr]=Egaliseur pour ALSA Audio
+Comment[it]=Equalizzatore per ALSA Audio
+Comment[nl]=ALSA Audio Equalizer
+Comment[pt]=Equalizador de audio ALSA
+Comment[sv]=ALSA Audio Equalizer
 Exec=x-terminal-emulator -e alsamixer -D equalizer
 Icon=alsamixer-equalizer.png
 Terminal=false
