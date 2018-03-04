@@ -1,3 +1,15 @@
+alsamixer-equalizer-antix (0.1.6) unstable; urgency=medium
+
+  * New Amharic
+
+ -- anticapitalista <antix@operamail.com>  Fri, 02 Mar 2018 16:12:59 +0200
+
+alsamixer-equalizer-antix (0.1.5) unstable; urgency=medium
+
+  * alsamixer-plus - a single config for ALSA again provide both equalizer and pre-amp
+
+ -- anticapitalista <antix@operamail.com>  Mon, 15 Jan 2018 19:07:04 +0200
+
 alsamixer-equalizer-antix (0.1.4) unstable; urgency=medium
 
   * Translated desktop file
